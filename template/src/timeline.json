@@ -1,0 +1,319 @@
+{
+ "duration": 108.78,
+ "pieces": [
+  [
+   0.3,
+   5.09,
+   0
+  ],
+  [
+   7.72,
+   10.82,
+   4.79
+  ],
+  [
+   11.21,
+   14.89,
+   7.89
+  ],
+  [
+   15.59,
+   26.21,
+   11.57
+  ],
+  [
+   37.35,
+   43.28,
+   22.19
+  ],
+  [
+   50.19,
+   64.31,
+   28.12
+  ],
+  [
+   68.09,
+   86.51,
+   42.24
+  ],
+  [
+   104.39,
+   125.89,
+   60.66
+  ],
+  [
+   134.11,
+   146.3,
+   82.16
+  ],
+  [
+   146.63,
+   161.06,
+   94.35
+  ]
+ ],
+ "captions": [
+  {
+   "s": 0.06,
+   "e": 4.85,
+   "ru": "Ancient Greek philosophers ne ek cheez kahi thi: The Ship of Theseus",
+   "en": "Ancient Greek philosophers posed a puzzle: the Ship of Theseus"
+  },
+  {
+   "s": 4.85,
+   "e": 7.95,
+   "ru": "Agar ek ship hai…",
+   "en": "Imagine there's a ship…"
+  },
+  {
+   "s": 7.95,
+   "e": 11.63,
+   "ru": "aur hum uski har ek lakdi ka hissa",
+   "en": "and we take each of its wooden planks"
+  },
+  {
+   "s": 11.63,
+   "e": 14.68,
+   "ru": "baar baar badalte jaayein, badalte jaayein",
+   "en": "and keep replacing them, again and again"
+  },
+  {
+   "s": 14.68,
+   "e": 17.84,
+   "ru": "Pehle din ek lakdi ka hissa badla",
+   "en": "Day one, we swap out a single plank"
+  },
+  {
+   "s": 17.84,
+   "e": 22.25,
+   "ru": "To kya yeh abhi bhi Ship of Theseus hai? Kya yeh wahi ship hai?",
+   "en": "Is it still the Ship of Theseus? The same ship?"
+  },
+  {
+   "s": 22.25,
+   "e": 25.28,
+   "ru": "To kya woh same ship hai ya alag ship?",
+   "en": "So is it the same ship, or a different one?"
+  },
+  {
+   "s": 25.28,
+   "e": 28.18,
+   "ru": "Agar alag hai, to kab hui alag?",
+   "en": "If it's different, when did it become different?"
+  },
+  {
+   "s": 28.18,
+   "e": 31.67,
+   "ru": "Aur yehi masla insaanon ke saath bhi aata hai",
+   "en": "And the same problem comes up with humans"
+  },
+  {
+   "s": 31.67,
+   "e": 35.07,
+   "ru": "Insaan ki jo physical body hai…",
+   "en": "The human physical body…"
+  },
+  {
+   "s": 35.07,
+   "e": 38.51,
+   "ru": "10 se 15 saal mein saare physical cells",
+   "en": "within 10 to 15 years, all its cells"
+  },
+  {
+   "s": 38.51,
+   "e": 42.3,
+   "ru": "change ho jaate hain. Naye cells aate hain, purane mar jaate hain",
+   "en": "get replaced. New cells come, old ones die"
+  },
+  {
+   "s": 42.3,
+   "e": 48.87,
+   "ru": "Bachcha paida hota hai, 10 saal ka hota hai, physically sab badal chuka",
+   "en": "A child is born; by ten, physically everything has changed"
+  },
+  {
+   "s": 48.87,
+   "e": 55.05,
+   "ru": "Hum obviously kahenge: haan, yeh wahi bachcha hai jo paida hua tha",
+   "en": "Obviously we'd say: yes, it's the same child who was born"
+  },
+  {
+   "s": 55.05,
+   "e": 60.72,
+   "ru": "Yahan materialistic philosophy collapse kar jaati hai",
+   "en": "This is where materialist philosophy collapses"
+  },
+  {
+   "s": 60.72,
+   "e": 66.87,
+   "ru": "Insaan bunyadi taur par do cheezon ka murakkab hai",
+   "en": "A human is fundamentally made of two things"
+  },
+  {
+   "s": 66.87,
+   "e": 72.53,
+   "ru": "Ek body, jo matter hai, physical hai",
+   "en": "A body, which is matter, physical"
+  },
+  {
+   "s": 72.53,
+   "e": 75.09,
+   "ru": "Aur doosri cheez roohani hai, spiritual",
+   "en": "And the other is spiritual"
+  },
+  {
+   "s": 75.09,
+   "e": 82.22,
+   "ru": "Ek alag substance, jisko hum soul kehte hain",
+   "en": "A separate substance we call the soul"
+  },
+  {
+   "s": 82.22,
+   "e": 86.43,
+   "ru": "Physical body complete replace ho rahi hai",
+   "en": "The physical body gets completely replaced"
+  },
+  {
+   "s": 86.43,
+   "e": 89.49,
+   "ru": "lekin soul apne substance mein nahi badalti, develop hoti hai",
+   "en": "but the soul doesn't change in substance; it develops"
+  },
+  {
+   "s": 89.49,
+   "e": 94.41,
+   "ru": "Aur is se saare issues khatam ho jaate hain",
+   "en": "And that resolves the whole puzzle"
+  },
+  {
+   "s": 94.41,
+   "e": 99.09,
+   "ru": "Insaan ki agar poori physicality khatam kar di jaaye",
+   "en": "Even if a person's entire physical self is gone"
+  },
+  {
+   "s": 99.09,
+   "e": 100.99,
+   "ru": "jo maut mein hoga, aur wapas laa di jaaye",
+   "en": "as in death, and is brought back"
+  },
+  {
+   "s": 100.99,
+   "e": 104.92,
+   "ru": "phir bhi woh wahi insaan hoga",
+   "en": "he will still be the same person"
+  },
+  {
+   "s": 104.92,
+   "e": 108.72,
+   "ru": "kyunke jo substance usko insaan banata hai, woh wahi hai",
+   "en": "because the substance that makes him human is the same"
+  }
+ ],
+ "hook": {
+  "dur": 3.3,
+  "beats": [
+   {
+    "from": 0,
+    "to": 56,
+    "kind": "infographic"
+   },
+   {
+    "from": 56,
+    "to": 99,
+    "kind": "face",
+    "text": "TO KYA TUM",
+    "sub": "WAHI HO?"
+   }
+  ]
+ },
+ "broll": [
+  {
+   "kind": "ship-calm",
+   "s": 4.85,
+   "e": 7.83
+  },
+  {
+   "kind": "ship-replace",
+   "s": 11.63,
+   "e": 17.72
+  },
+  {
+   "kind": "ship-explode",
+   "s": 25.28,
+   "e": 28.12
+  },
+  {
+   "kind": "cells",
+   "s": 35.07,
+   "e": 42.18,
+   "text": "CELLS RENEW"
+  },
+  {
+   "kind": "grow",
+   "s": 42.3,
+   "e": 48.87,
+   "text": "WAHI BACHA?"
+  },
+  {
+   "kind": "crumble",
+   "s": 55.05,
+   "e": 60.65,
+   "text": "SIRF MATTER?"
+  },
+  {
+   "kind": "soul",
+   "s": 75.09,
+   "e": 82.1,
+   "text": "ROOH"
+  },
+  {
+   "kind": "rebuild",
+   "s": 94.41,
+   "e": 100.99,
+   "text": "WAPAS"
+  }
+ ],
+ "titles": [
+  {
+   "s": 17.84,
+   "e": 20.48,
+   "a": "SAME",
+   "b": "SHIP?"
+  },
+  {
+   "s": 28.18,
+   "e": 30.93,
+   "a": "SAME",
+   "b": "INSAAN?"
+  },
+  {
+   "s": 60.72,
+   "e": 63.87,
+   "a": "JISM +",
+   "b": "ROOH"
+  },
+  {
+   "s": 89.49,
+   "e": 92.25,
+   "a": "PUZZLE",
+   "b": "SOLVED"
+  }
+ ],
+ "verses": [
+  {
+   "s": 108.78,
+   "e": 112.98,
+   "ar": "قُلْ يُحْيِيهَا الَّذِي أَنشَأَهَا أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ",
+   "en": "Say, He will give them life who produced them the first time; and He is, of all creation, Knowing.",
+   "ref": "(Ya-Sin 36:79)"
+  }
+ ],
+ "endCard": {
+  "s": 112.98,
+  "dur": 3.0,
+  "title": "ROZ EK SAWAL",
+  "sub": "follow for daily reels"
+ },
+ "total": 115.98
+}
