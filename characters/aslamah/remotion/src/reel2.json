@@ -1,0 +1,90 @@
+{
+ "bubbles": [
+  {
+   "who": "F",
+   "text": "I came straight from the garden. I'm covered in mud. Can I even pray like this?",
+   "eyes": "wide",
+   "pose": "shrug",
+   "at": 75
+  },
+  {
+   "who": "A",
+   "text": "Is there any najasa on your clothes? Anything impure?",
+   "eyes": "open",
+   "pose": "think",
+   "at": 257
+  },
+  {
+   "who": "F",
+   "text": "No... just mud. And sweat. Lots of sweat.",
+   "eyes": "side",
+   "pose": "rest",
+   "at": 375
+  },
+  {
+   "who": "A",
+   "text": "Then your clothes are pure!",
+   "eyes": "happy",
+   "pose": "present",
+   "at": 484
+  },
+  {
+   "who": "F",
+   "text": "Pure?? Look at me!",
+   "eyes": "wide",
+   "pose": "shrug",
+   "at": 565
+  },
+  {
+   "who": "A",
+   "text": "Dirty and impure aren't the same. In fiqh, \"pure\" is a legal word.",
+   "eyes": "open",
+   "pose": "point",
+   "at": 638
+  },
+  {
+   "who": "A",
+   "text": "Mud makes you dirty. Najasa makes you impure.",
+   "eyes": "happy",
+   "pose": "present",
+   "at": 792
+  },
+  {
+   "who": "F",
+   "text": "So I could fall in a mudslide and still be pure?",
+   "eyes": "up",
+   "pose": "think",
+   "at": 901
+  },
+  {
+   "who": "A",
+   "text": "Yes! But if your wudu broke, you still need wudu. That's the other kind: ritual impurity.",
+   "eyes": "open",
+   "pose": "point",
+   "at": 1038
+  },
+  {
+   "who": "F",
+   "text": "So I can be spotless and still not ready to pray?",
+   "eyes": "wide",
+   "pose": "shrug",
+   "at": 1220
+  },
+  {
+   "who": "A",
+   "text": "Exactly. Taharah means removing najasa from your body, clothes and place of prayer, and being in wudu.",
+   "eyes": "happy",
+   "pose": "present",
+   "at": 1356
+  },
+  {
+   "who": "F",
+   "text": "Okay. Wudu first... then I'm changing out of these!",
+   "eyes": "happy",
+   "pose": "wave",
+   "at": 1547
+  }
+ ],
+ "end": 1665,
+ "total": 1800
+}

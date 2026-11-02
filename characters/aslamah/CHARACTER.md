@@ -24,3 +24,7 @@ Reference image: `reference.png` (from "Aslamah Lifestyle"). Always match it.
 ## Content rules
 - Modest and respectful at all times; never show her face below the eyes.
 - No music or instruments in her reels. Voice (soft-spoken, refined female) and/or nature sounds only.
+
+## Code (Nov 2 2026)
+`remotion/src/Character.tsx` draws Aslamah (and the sage-green friend via `who="friend"`), with eyes, poses, tilt, blink, mud and glow props. Reel1.tsx = voiceover skit, Reel2.tsx = chat-bubble skit. Fonts: Gaegu + Nunito (npm @fontsource) in public/fonts.
+Voice: Kokoro (sherpa-onnx GitHub release `kokoro-multi-lang-v1_0`), sid 21 bf_emma, speed 0.92, GB lexicon (add missing words such as ummah, jannah, plurals). `sfx.py` synthesises birds, breeze and water only (no music).
